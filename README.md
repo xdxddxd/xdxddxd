@@ -4,6 +4,22 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xdxddxd&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xdxddxd&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
+
+## Projetos
+
+### Agensys (SaaS de Gestão para Agências)
+Features: Gestão financeira, múltiplos times/usuários, contratos digitais (e-signature), CRM, webchat (WhatsApp), cobranças automáticas e webhooks para integração com softwares de terceiros.
+Arquitetura: Monorepo com SSO e WebSockets.
+Tech Stack: Next.js, Express, Prisma, PostgreSQL.
+### Aplicativo web3 e blockchain para transações de créditos de carbono
+Atuação no desenvolvimento do back-end e responsável pelo front-end web (ReactJs) e mobile (React-Native).
+### Sistema Completo para Restaurantes
+Features: Chatbot automatizado via WhatsApp, cardápio digital personalizável, sistema de gestão de pedidos com acompanhamento por etapas e notificações em tempo real, Ponto de Venda (PDV) + KVM, controle de estoque e relatórios gerenciais detalhados.
+Tech Stack: Next.js e Express com WebSockets.
+### Criador de Flyers
+Features: Sistema web para a criação de folhetos imobiliários, com detalhamento automático de imóveis em destaque.
+Tech Stack: Next.js, PostgreSQL serverless (NEON) e web scraping (Puppeteer) para a obtenção automatizada de propriedades.
+
 <div style="display: inline_block"><br>
   <img align="center" alt="xd-nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="xd-electron" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg">
